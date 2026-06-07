@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Polygonal cropping coordinator exporting clip-path codes.
+  name: css-clip-path-editor version: 1.0 type: Repository author: VarshuAi description: >   Polygonal cropping coordinator exporting clip-path codes. primary_tech: CSS
 primary_tech: CSS
 ```
 
